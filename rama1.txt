@@ -1,2 +1,6 @@
 Primera Linea
+<<<<<<< HEAD
 Segunda Linea desde master
+=======
+Segunda Linea
+>>>>>>> miramaDavid
